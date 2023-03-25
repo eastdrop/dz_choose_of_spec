@@ -1,0 +1,15 @@
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\proj1.csproj.AssemblyReference.cache
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\proj1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\proj1.AssemblyInfoInputs.cache
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\proj1.AssemblyInfo.cs
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\proj1.csproj.CoreCompileInputs.cache
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\bin\Debug\net7.0\proj1.exe
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\bin\Debug\net7.0\proj1.deps.json
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\bin\Debug\net7.0\proj1.runtimeconfig.json
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\bin\Debug\net7.0\proj1.dll
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\bin\Debug\net7.0\proj1.pdb
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\proj1.dll
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\refint\proj1.dll
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\proj1.pdb
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\proj1.genruntimeconfig.cache
+D:\Others\Courses\course_gb\Lessons\Choose_of_specialization\dz_choose_of_spec\proj1\obj\Debug\net7.0\ref\proj1.dll
