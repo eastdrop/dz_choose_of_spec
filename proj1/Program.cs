@@ -1,6 +1,4 @@
-﻿using System.Net.Security;
-using System.Numerics;
-using System.Reflection.Metadata.Ecma335;
+﻿
 
 string[] ModifyArray(string[] array)
 {
@@ -25,11 +23,6 @@ string[] ModifyArray(string[] array)
     int selectIndex = 0;
     for (int i = 0; i < array.Length; i++)
     {
-/*        if (array[i] == "")
-        {
-            result[selectIndex] = array[i];
-            selectIndex++;
-        }*/
         if (!array[i].Equals(""))
         {
             result[selectIndex] = array[i];
@@ -42,11 +35,6 @@ string[] ModifyArray(string[] array)
 
 void PrintArray(string[] arr)
 {
- /*   for (int i = 0; i < arr.Length; i++)
-    {
-        if (arr[i] == "") i++;
-        else Console.WriteLine("[" + string.Join(", ", arr[i]) + "]");
-    }*/
     Console.WriteLine("[" + string.Join(", ", arr) + "]");
 }
 string[] myArray = { "hello", "2", "asddd", "321" };
